@@ -1,0 +1,319 @@
+fileFormatVersion: 2
+guid: e4162878d4d85b84caf808207c06f120
+timeCreated: 1512486890
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: gun
+    100002: //RootNode
+    100004: piece 43
+    100006: piece ship
+    100008: piece039
+    100010: piece040
+    100012: piece1
+    100014: piece10
+    100016: piece11
+    100018: piece12
+    100020: piece13
+    100022: piece14
+    100024: piece15
+    100026: piece16
+    100028: piece17
+    100030: piece18
+    100032: piece19
+    100034: piece2
+    100036: piece20
+    100038: piece21
+    100040: piece22
+    100042: piece23
+    100044: piece24
+    100046: piece25
+    100048: piece26
+    100050: piece27
+    100052: piece28
+    100054: piece29
+    100056: piece3
+    100058: piece30
+    100060: piece31
+    100062: piece32
+    100064: piece33
+    100066: piece34
+    100068: piece35
+    100070: piece36
+    100072: piece37
+    100074: piece38
+    100076: piece4
+    100078: piece42
+    100080: piece5
+    100082: piece6
+    100084: piece7
+    100086: piece8
+    100088: piece9
+    400000: gun
+    400002: //RootNode
+    400004: piece 43
+    400006: piece ship
+    400008: piece039
+    400010: piece040
+    400012: piece1
+    400014: piece10
+    400016: piece11
+    400018: piece12
+    400020: piece13
+    400022: piece14
+    400024: piece15
+    400026: piece16
+    400028: piece17
+    400030: piece18
+    400032: piece19
+    400034: piece2
+    400036: piece20
+    400038: piece21
+    400040: piece22
+    400042: piece23
+    400044: piece24
+    400046: piece25
+    400048: piece26
+    400050: piece27
+    400052: piece28
+    400054: piece29
+    400056: piece3
+    400058: piece30
+    400060: piece31
+    400062: piece32
+    400064: piece33
+    400066: piece34
+    400068: piece35
+    400070: piece36
+    400072: piece37
+    400074: piece38
+    400076: piece4
+    400078: piece42
+    400080: piece5
+    400082: piece6
+    400084: piece7
+    400086: piece8
+    400088: piece9
+    2300000: gun
+    2300002: piece 43
+    2300004: piece ship
+    2300006: piece039
+    2300008: piece040
+    2300010: piece1
+    2300012: piece10
+    2300014: piece11
+    2300016: piece12
+    2300018: piece13
+    2300020: piece14
+    2300022: piece15
+    2300024: piece16
+    2300026: piece17
+    2300028: piece18
+    2300030: piece19
+    2300032: piece2
+    2300034: piece20
+    2300036: piece21
+    2300038: piece22
+    2300040: piece23
+    2300042: piece24
+    2300044: piece25
+    2300046: piece26
+    2300048: piece27
+    2300050: piece28
+    2300052: piece29
+    2300054: piece3
+    2300056: piece30
+    2300058: piece31
+    2300060: piece32
+    2300062: piece33
+    2300064: piece34
+    2300066: piece35
+    2300068: piece36
+    2300070: piece37
+    2300072: piece38
+    2300074: piece4
+    2300076: piece42
+    2300078: piece5
+    2300080: piece6
+    2300082: piece7
+    2300084: piece8
+    2300086: piece9
+    3300000: gun
+    3300002: piece 43
+    3300004: piece ship
+    3300006: piece039
+    3300008: piece040
+    3300010: piece1
+    3300012: piece10
+    3300014: piece11
+    3300016: piece12
+    3300018: piece13
+    3300020: piece14
+    3300022: piece15
+    3300024: piece16
+    3300026: piece17
+    3300028: piece18
+    3300030: piece19
+    3300032: piece2
+    3300034: piece20
+    3300036: piece21
+    3300038: piece22
+    3300040: piece23
+    3300042: piece24
+    3300044: piece25
+    3300046: piece26
+    3300048: piece27
+    3300050: piece28
+    3300052: piece29
+    3300054: piece3
+    3300056: piece30
+    3300058: piece31
+    3300060: piece32
+    3300062: piece33
+    3300064: piece34
+    3300066: piece35
+    3300068: piece36
+    3300070: piece37
+    3300072: piece38
+    3300074: piece4
+    3300076: piece42
+    3300078: piece5
+    3300080: piece6
+    3300082: piece7
+    3300084: piece8
+    3300086: piece9
+    4300000: piece ship
+    4300002: piece1
+    4300004: piece2
+    4300006: piece3
+    4300008: piece4
+    4300010: piece5
+    4300012: piece6
+    4300014: piece7
+    4300016: piece8
+    4300018: piece9
+    4300020: piece10
+    4300022: piece11
+    4300024: piece12
+    4300026: piece13
+    4300028: piece14
+    4300030: piece15
+    4300032: piece16
+    4300034: piece17
+    4300036: piece18
+    4300038: piece19
+    4300040: piece20
+    4300042: piece21
+    4300044: piece22
+    4300046: piece23
+    4300048: piece24
+    4300050: piece25
+    4300052: piece26
+    4300054: piece27
+    4300056: piece28
+    4300058: piece29
+    4300060: piece30
+    4300062: piece31
+    4300064: piece32
+    4300066: piece33
+    4300068: piece34
+    4300070: piece35
+    4300072: piece36
+    4300074: piece37
+    4300076: piece38
+    4300078: piece039
+    4300080: piece040
+    4300082: piece42
+    4300084: piece 43
+    4300086: gun
+    7400000: Little enemy CUT1
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LittleGun mat
+    second: {fileID: 2100000, guid: c544851ec59d3aa43a5d7bea945da161, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LittleShip mat
+    second: {fileID: 2100000, guid: 402fb5255bb21c64da4486373ba89c0c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
